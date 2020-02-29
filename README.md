@@ -2,6 +2,8 @@
 
 ---
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ndelangen/storybook-repro-svelte-284.svg)](https://greenkeeper.io/)
+
 # svelte app
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
